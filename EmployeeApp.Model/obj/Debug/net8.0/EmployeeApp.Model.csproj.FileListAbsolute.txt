@@ -1,0 +1,11 @@
+D:\Microservices_Samples\EmployeeApp.Model\bin\Debug\net8.0\EmployeeApp.Model.deps.json
+D:\Microservices_Samples\EmployeeApp.Model\bin\Debug\net8.0\EmployeeApp.Model.dll
+D:\Microservices_Samples\EmployeeApp.Model\bin\Debug\net8.0\EmployeeApp.Model.pdb
+D:\Microservices_Samples\EmployeeApp.Model\obj\Debug\net8.0\EmployeeApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices_Samples\EmployeeApp.Model\obj\Debug\net8.0\EmployeeApp.Model.AssemblyInfoInputs.cache
+D:\Microservices_Samples\EmployeeApp.Model\obj\Debug\net8.0\EmployeeApp.Model.AssemblyInfo.cs
+D:\Microservices_Samples\EmployeeApp.Model\obj\Debug\net8.0\EmployeeApp.Model.csproj.CoreCompileInputs.cache
+D:\Microservices_Samples\EmployeeApp.Model\obj\Debug\net8.0\EmployeeApp.Model.dll
+D:\Microservices_Samples\EmployeeApp.Model\obj\Debug\net8.0\refint\EmployeeApp.Model.dll
+D:\Microservices_Samples\EmployeeApp.Model\obj\Debug\net8.0\EmployeeApp.Model.pdb
+D:\Microservices_Samples\EmployeeApp.Model\obj\Debug\net8.0\ref\EmployeeApp.Model.dll

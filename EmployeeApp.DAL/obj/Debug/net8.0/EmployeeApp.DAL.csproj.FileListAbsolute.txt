@@ -1,0 +1,17 @@
+D:\Microservices_Samples\EmployeeApp.DAL\bin\Debug\net8.0\EmployeeApp.DAL.deps.json
+D:\Microservices_Samples\EmployeeApp.DAL\bin\Debug\net8.0\EmployeeApp.DAL.runtimeconfig.json
+D:\Microservices_Samples\EmployeeApp.DAL\bin\Debug\net8.0\EmployeeApp.DAL.dll
+D:\Microservices_Samples\EmployeeApp.DAL\bin\Debug\net8.0\EmployeeApp.DAL.pdb
+D:\Microservices_Samples\EmployeeApp.DAL\bin\Debug\net8.0\EmployeeApp.Model.dll
+D:\Microservices_Samples\EmployeeApp.DAL\bin\Debug\net8.0\EmployeeApp.Model.pdb
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\EmployeeApp.DAL.csproj.AssemblyReference.cache
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\EmployeeApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\EmployeeApp.DAL.AssemblyInfoInputs.cache
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\EmployeeApp.DAL.AssemblyInfo.cs
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\EmployeeApp.DAL.csproj.CoreCompileInputs.cache
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\Employee.FA8566AB.Up2Date
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\EmployeeApp.DAL.dll
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\refint\EmployeeApp.DAL.dll
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\EmployeeApp.DAL.pdb
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\EmployeeApp.DAL.genruntimeconfig.cache
+D:\Microservices_Samples\EmployeeApp.DAL\obj\Debug\net8.0\ref\EmployeeApp.DAL.dll

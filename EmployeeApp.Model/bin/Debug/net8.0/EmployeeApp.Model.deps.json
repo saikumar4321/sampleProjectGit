@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeApp.Model/1.0.0": {
+        "runtime": {
+          "EmployeeApp.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeApp.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
